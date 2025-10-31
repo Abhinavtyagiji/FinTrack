@@ -32,7 +32,7 @@ export default function RootLayout({ children }) {
         {/* footer */}
         <footer className="py-12">
           <div className="container mx-auto px-4 text-center text-grey-600 ">
-            <p> Made by Aniket Chauhan</p>
+            <p> Made by Abhinav Tyagi</p>
           </div>
         </footer>
       </body>
